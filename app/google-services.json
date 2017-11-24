@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971528605657",
+    "firebase_url": "https://colabmap-186718.firebaseio.com",
+    "project_id": "colabmap-186718",
+    "storage_bucket": "colabmap-186718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971528605657:android:6be482bee2ac99da",
+        "android_client_info": {
+          "package_name": "com.example.julius.colabmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971528605657-npeedpvk1tboaiqfp72fdhepv8qj9m4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julius.colabmap",
+            "certificate_hash": "634edd70ab6c8db7703d843b672c94e14b4539e2"
+          }
+        },
+        {
+          "client_id": "971528605657-idna4earsgg42a8uvdmkju8r13omicml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-3MHTIPKIMwl6RIpV58Q6HOSPqUnngc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971528605657-idna4earsgg42a8uvdmkju8r13omicml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
