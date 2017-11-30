@@ -6,20 +6,20 @@ import com.google.android.gms.maps.model.LatLng;
  * Created by julius on 22/11/2017.
  */
 
-public class CustomMarkerData {
+public class CustomIssueMarkerData {
     public double lat;
     public double lon;
     public String description;
-    public String photoURL;
+    public String photoName;
     public String id;
-    CustomMarkerData(double lat, double lon, String des, String pURL, String id){
+    CustomIssueMarkerData(double lat, double lon, String des, String photoName, String id){
         this.lat = lat;
         this.lon = lon;
         description = des;
-        photoURL = pURL;
+        this.photoName = photoName;
         this.id = id;
     }
-    public CustomMarkerData(){
+    public CustomIssueMarkerData(){
 
     }
 }
